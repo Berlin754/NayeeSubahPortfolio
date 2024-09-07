@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../image.jpg'
+import picture from '../../websitedesignimages/heropicture.jpg'
 import Buttons from '../Buttons';
 
 
