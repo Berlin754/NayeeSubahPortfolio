@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import { FiFile } from 'react-icons/fi'
-import aboutSectionImage from '../../websitedesignimages/heropicture.jpg'
+import aboutSectionImage from '../../websitedesignimages/image.jpg'
 import { BiBadge, BiHeadphone } from 'react-icons/bi'
 import { BsBag } from 'react-icons/bs'
 import Buttons from '../Buttons'
@@ -12,12 +12,12 @@ const About = () => {
     {
       icon: <BiBadge />,
       title: "Experience",
-      time: "8 +Year"
+      time: "Freshire"
     },
     {
       icon: <BsBag />,
       title: "Completed",
-      time: "48 +Project"
+      time: "2 + Project"
     },
     {
       icon: <BiHeadphone />,
@@ -63,8 +63,7 @@ const About = () => {
           </div>
 
           <p className='about-section-bottom-right-middle'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti sunt at quis a sit minus ut atque, architecto eius! Accusamus ratione esse dolore, suscipit dolorem deserunt rerum sed nesciunt culpa.
-          </p>
+          I am a student of MERN Stack Developer in Visual Studio Code and I also JSReact Developer. I will be a full stack developer Inshallah.          </p>
 
           {/* <div className='herosection-name-container-button'>
             <button>Download Cv <FiFile /></button>
