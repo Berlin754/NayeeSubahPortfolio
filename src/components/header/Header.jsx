@@ -13,7 +13,7 @@ const Header = () => {
             link: "#about"
         },
         {
-            name: "Slills",
+            name: "Skills",
             link: "#skills"
         }
     ]
@@ -21,7 +21,7 @@ const Header = () => {
     return (
 
         <header>
-            <h1>Aveena.</h1>
+            <h1>Berlin.</h1>
 
             <div className='navitems'>
                 {headerData.map((item, index) => {

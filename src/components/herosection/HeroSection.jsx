@@ -6,7 +6,7 @@ import { FaTwitter } from "react-icons/fa6";
 import { GiHand } from "react-icons/gi";
 import { FaTelegramPlane } from "react-icons/fa";
 
-import picture from '../../websitedesignimages/heropicture.jpg'
+import picture from '../image.jpg'
 import Buttons from '../Buttons';
 
 
@@ -53,13 +53,13 @@ const HeroSection = () => {
         <div className='herosection-name-container-top'>
 
           <div className='name-part'>
-            <h1>Aveena.</h1>
+            <h1>Abdul Rehman</h1>
             <span><GiHand /></span>
           </div>
 
 
-          <h2>Frontend Developer</h2>
-          <p>Lorem ipsum,  sit amet consectetur adipisicing elit. Reiciendis est sequi, deleniti optio exercitationem, magni repellat totam rerum perspiciatis porro et tempora autem repudiandae iusto? Suscipit nesciunt illum consectetur quibusdam?</p>
+          <h2>MY Intro</h2>
+          <p>I am a student of MERN Stack Developer in Visual Studio Code and I also JSReact Developer. I will be a full stack developer Inshallah.</p>
         </div>
 
         <Buttons btnTitle={"Say Hello"} btnIcon={<FaTelegramPlane />} />
